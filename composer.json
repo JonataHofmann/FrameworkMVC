@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4":{
+            "App\\Controller\\":"app/controller/",
+            "App\\Api\\":"app/api/",
+            "App\\Core\\":"app/core/",
+            "App\\Model\\":"app/models/"
+        },
+        "files":[
+            "app/helper.php"
+        ]
+    }
+}

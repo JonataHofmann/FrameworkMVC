@@ -1,0 +1,35 @@
+<Pessoas>
+	<Pessoa usuario="jonata.hofmann">
+		<Nome>Jonatã</Nome>
+		<Sobrenome>Hofmann</Sobrenome>
+		<Email>jonata.hofmann@gx2.com.br</Email>
+		<Endereco>
+			<Rua>Germânia, 201</Rua>
+			<Bairro>Centro</Bairro>
+			<Estado>RS</Estado>
+			<Pais>Brasil</Pais>
+		</Endereco>
+	</Pessoa>
+	<Pessoa usuario="jonata.hofmann2">
+		<Nome>Jonatã</Nome>
+		<Sobrenome>Hofmann</Sobrenome>
+		<Email>jonata.hofmann@gx2.com.br</Email>
+		<Endereco>
+			<Rua>Germânia, 201</Rua>
+			<Bairro>Centro</Bairro>
+			<Estado>RS</Estado>
+			<Pais>Brasil</Pais>
+		</Endereco>
+	</Pessoa>
+	<Pessoa usuario="jonata.hofmann">
+		<Nome>Jonatã</Nome>
+		<Sobrenome>Hofmann</Sobrenome>
+		<Email>jonata.hofmann@gx2.com.br</Email>
+		<Endereco>
+			<Rua>Germânia, 201</Rua>
+			<Bairro>Centro</Bairro>
+			<Estado>RS</Estado>
+			<Pais>Brasil</Pais>
+		</Endereco>
+	</Pessoa>
+</Pessoas>

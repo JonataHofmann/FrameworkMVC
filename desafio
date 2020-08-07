@@ -1,0 +1,9 @@
+- Criar um CRUD de Pessoa Web;
+- Criar uma API de integração com o sistema (CRUD via webservice json);
+- Ler uma API e popular as tabelas do banco de dados (Usando CURL http://sistemas.gx2.com.br/WebApi/rest/GetAllPeoples GetAllPeoples);
+- Ler um XML e popular as tabelas do banco de dados (xmlimportacao.xml);
+- Escrever um arquivo xml contendo todos os registros da tabela pessoa;
+- Este sistema deve funcionar tanto com MySQL quanto com SQLServer (IMPORTANTE); 
+
+Importante estudar também:
+- Leitura de Arquvos;
